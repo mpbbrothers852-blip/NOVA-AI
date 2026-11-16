@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753575533731",
+    "project_id": "nova-ai-38a34",
+    "storage_bucket": "nova-ai-38a34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753575533731:android:ff08e692b2a7f79da6b316",
+        "android_client_info": {
+          "package_name": "com.nova.assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZiWa82ggs0qZI3KSTjfo2rq8BQm5318"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
