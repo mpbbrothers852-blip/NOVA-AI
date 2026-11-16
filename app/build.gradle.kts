@@ -9,6 +9,9 @@ plugins {
 
 android {
     namespace = "com.nova.assistant"
+    buildFeatures {
+    buildConfig = true
+}    
     compileSdk = 36
 
     defaultConfig {
